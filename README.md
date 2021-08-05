@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+Hello,
+
+My name is Ryan and I am picking up coding as hobby. Look forward to entering this journey!
